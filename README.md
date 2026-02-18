@@ -1,4 +1,4 @@
-# Active Directory Home Lab (Windows Server 2019 + Windows 10 Enterprise)
+# Active Directory Home Lab 
 
 ## Overview
 Built an Active Directory home lab using two virtual machines:
