@@ -30,7 +30,8 @@ The Domain Controller uses **two virtual NICs** to support an isolated internal 
 - DNS resolution works for domain resources
 - Client has internet access through the lab network design
 
-## Skills Learned
+## Report Pages
+- [Skills Learned](docs/skills_learned.md)
 - Virtualization & virtual networking (internal vs NAT/bridged)
 - Windows Server administration fundamentals
 - Active Directory (AD DS) and Domain Controller concepts
