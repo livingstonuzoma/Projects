@@ -31,7 +31,7 @@ The Domain Controller uses **two virtual NICs** to support an isolated internal 
 - Client has internet access through the lab network design
 
 ## Report Pages
-- [Skills Learned](docs/skills_learned.md)
+- [Skills Learned](ActiveDirectoryLab/docs/skills_learned.md)
 - Virtualization & virtual networking (internal vs NAT/bridged)
 - Windows Server administration fundamentals
 - Active Directory (AD DS) and Domain Controller concepts
@@ -41,7 +41,7 @@ The Domain Controller uses **two virtual NICs** to support an isolated internal 
 - Troubleshooting domain join / authentication issues
 
 ## Troubleshooting Notes
-See: [docs/troubleshooting.md](docs/Troubleshooting.md)
+See: [docs/Troubleshooting.md](ActiveDirectoryLab/docs/Troubleshooting.md)
 
 ## Possible Improvements
 - Add Group Policy (GPO) enforcement (password/lockout policies)
