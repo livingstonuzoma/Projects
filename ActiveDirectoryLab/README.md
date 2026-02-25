@@ -41,7 +41,7 @@ The Domain Controller uses **two virtual NICs** to support an isolated internal 
 - Troubleshooting domain join / authentication issues
 
 ## Troubleshooting Notes
-See: [docs/troubleshooting.md](docs/troubleshooting.md)
+See: [docs/troubleshooting.md](docs/Troubleshooting.md)
 
 ## Possible Improvements
 - Add Group Policy (GPO) enforcement (password/lockout policies)
