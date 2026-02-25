@@ -31,7 +31,7 @@ The Domain Controller uses **two virtual NICs** to support an isolated internal 
 - Client has internet access through the lab network design
 
 ## Report Pages
-- [Skills Learned](Docs/skills_learned.md)
+- [Docs/Skills Learned](Docs/skills_learned.md)
 - Virtualization & virtual networking (internal vs NAT/bridged)
 - Windows Server administration fundamentals
 - Active Directory (AD DS) and Domain Controller concepts
